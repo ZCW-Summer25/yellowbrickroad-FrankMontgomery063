@@ -13,7 +13,7 @@ There are many different text editors available, each with its own features and 
 We will be using `nano`, a simple and easy-to-use text editor that is available on most Unix-based systems.
 
 ## Getting Started
-
+`nano`
 To get started, open a terminal window on your computer.
 
 Type `nano`
