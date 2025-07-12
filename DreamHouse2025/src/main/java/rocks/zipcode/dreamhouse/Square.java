@@ -23,9 +23,9 @@ public class Square
     public Square()
     {
         size = 30;
-        xPosition = 60;
+        xPosition = 100;
         yPosition = 50;
-        color = "red";
+        color = "blue";
         isVisible = false;
     }
 
